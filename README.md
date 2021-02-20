@@ -8,4 +8,4 @@
 
 
 
-![program pic](https://github.com/JUSTSAIF/getMyIpAddr/blob/main/pic.jpg?raw=true)
+![program pic](https://github.com/JUSTSAIF/getMyIpAddr/blob/main/pic.jpg?raw=true | width=100)
