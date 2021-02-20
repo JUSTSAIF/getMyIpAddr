@@ -8,4 +8,4 @@
 
 
 
-![](https://github.com/JUSTSAIF/getMyIpAddr/blob/main/pic.jpg?raw=true =250x250)
+![](https://github.com/JUSTSAIF/getMyIpAddr/blob/main/pic.jpg =250x250)
